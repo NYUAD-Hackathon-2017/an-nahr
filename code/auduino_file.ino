@@ -1,4 +1,4 @@
-zakaria.belk [11:17 AM] 
+
 volatile int flow_frequency; // Measures flow sensor pulses
  float l_sec; // Calculated litres/hour
  float lastAmount=0;;
