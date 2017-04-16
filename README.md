@@ -18,3 +18,5 @@ Find our slides [here](https://docs.google.com/presentation/d/1t7q4K04Lj0AJDWOtj
 * **Sama Kanbour**, `samakanbour@gmail.com`, GE, Digital Associate, Qatar
 * **Joyce Zhang**, `joyz@alum.mit.edu`, Boston Consulting Group, Associate, US
 * **Abdelrazak Al-Sharif**, startAD, Innovation Engineer, UAE
+
+![Team](https://github.com/NYUAD-Hackathon-2017/annahr/blob/master/media/team.jpg?raw=true)
